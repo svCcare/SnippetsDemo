@@ -11,7 +11,7 @@
 - [ ] Manualny Import: %USERPROFILE%\Documents\Visual Studio <version>\Templates\ItemTemplates
 - [ ] Konfiguracja templatki szczegółowa
 - [ ] Omówienie plików vstemplate file oraz .cs
-- [ ] Dostępne zmienne [Dokumentacja microsoftu]([https://pages.github.com/](https://learn.microsoft.com/en-us/visualstudio/ide/template-parameters?view=vs-2022))
+- [ ] Dostępne zmienne [Dokumentacja microsoftu](https://learn.microsoft.com/en-us/visualstudio/ide/template-parameters?view=vs-2022)
 - [ ] Live coding: Podmiana parametrów
 - [ ] Rezultat końcowy
 
