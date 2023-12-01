@@ -1,3 +1,8 @@
+# Instalacja ProjectTemplate
+Wrzucić ściągnięty plik .zip do folderu 
+
+`.\Visual Studio 2022\Templates\ProjectTemplates`
+
 # Agenda
 1. Item Snippets
 2. Multi-items Snippets
